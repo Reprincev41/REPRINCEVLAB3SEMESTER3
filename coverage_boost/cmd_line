@@ -1,0 +1,1 @@
+genhtml coverage_boost.info --branch-coverage --output-directory ./coverage_boost
